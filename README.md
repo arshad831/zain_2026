@@ -12,3 +12,5 @@ Use it to compare generation behavior across temperature, top-p, top-k, max toke
 https://huggingface.co/spaces/decodingdatascience/Customer360SQLAgent
 
 Deply in hugging face space
+
+https://github.com/arshad831/zain_2026/blob/main/Zain_SQL_Agent_Hugging_Face_Spaces_Deployment_Guide.pdf
