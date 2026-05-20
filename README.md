@@ -14,3 +14,6 @@ https://huggingface.co/spaces/decodingdatascience/Customer360SQLAgent
 Deply in hugging face space
 
 https://github.com/arshad831/zain_2026/blob/main/Zain_SQL_Agent_Hugging_Face_Spaces_Deployment_Guide.pdf
+
+
+So I have this final IPYNB file for SQL Agent. I have created this whole notebook where the Gradio application is working now. I need to convert this into app.py and requirements.txt to load it on Hugging Face Spaces. Can you please convert this code into app.py? Put everything in one file so that I can upload it on Hugging Face Spaces. Make sure that the whole code that is running, that I have finalized, can be replicated and tell me the steps as well while doing this.
