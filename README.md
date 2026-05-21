@@ -25,3 +25,11 @@ https://forms.gle/HJEWTvvGacNde66E8
 Subnit final capstone
 
 https://docs.google.com/forms/d/e/1FAIpQLSdUvCXaUMtd941V54Nyt70UPFwgQzs_TyJk52gI9Ce7NY5RmQ/viewform
+
+Download vs code
+https://code.visualstudio.com/download
+
+Project handout
+https://github.com/arshad831/zain_2026/blob/main/Codex_Customer_360_Gradio_UI_Project_Handout.pdf
+
+
