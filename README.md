@@ -21,3 +21,7 @@ So I have this final IPYNB file for SQL Agent. I have created this whole noteboo
 submit final project here
 
 https://forms.gle/HJEWTvvGacNde66E8
+
+Subnit final capstone
+
+https://docs.google.com/forms/d/e/1FAIpQLSdUvCXaUMtd941V54Nyt70UPFwgQzs_TyJk52gI9Ce7NY5RmQ/viewform
